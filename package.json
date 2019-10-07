@@ -1,0 +1,30 @@
+{
+	"name": "jg-themes",
+	"displayName": "JG - Themes",
+	"description": "VSCode package with custom themes for my personal use",
+	"version": "1.0.0",
+	"repository": {
+		"url": "https://github.com/JulianGmp/vscode-jg-themes"
+	},
+	"author": {
+		"name": "Julian G",
+		"url": "https://github.com/JulianGmp",
+		"email": "juliangmp@pm.me"
+	},
+	"publisher": "JulianGmp",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "[JG] Dark+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jg-darkplus.color-theme.json"
+			}
+		]
+	}
+}
