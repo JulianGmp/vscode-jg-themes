@@ -8,8 +8,8 @@ Makes only a few changes, mainly to make `C#` code more readable.
 
 | Change                                |             Default Dark+ Theme               |          Dark+Sharp                                  |
 |:------------------------------------- | --------------------------------------------- | ---------------------------------------------------- |
-| More noticable regions                | ![regions_default](img/jg-darkplus/regions_default.png)   | ![regions](img/darkplus/regions.png)     |
-| Less noticable documentation comments | ![comments_default](img/jg-darkplus/comments_default.png) | ![comments](img/darkplus/comments.png)   |
+| More noticable regions                | ![regions_default](../img/jg-darkplus/regions_default.png)   | ![regions](../img/jg-darkplus/regions.png)     |
+| Less noticable documentation comments | ![comments_default](../img/jg-darkplus/comments_default.png) | ![comments](../img/jg-darkplus/comments.png)   |
 
 ## Reasons
 
