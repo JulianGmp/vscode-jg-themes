@@ -1,5 +1,7 @@
 # Some Custom Themes
 
+[![Visual Studio Marketplace Version](https://vsmarketplacebadge.apphb.com/version/JulianGmp.jg-themes.svg)](https://marketplace.visualstudio.com/items?itemName=JulianGmp.jg-themes)
+
 This package is a small collection of vscode colour themes that I personally use.
 
 *Right now there's only one but I'm gonna add more at some point, I think. Don't quote me on it.*
