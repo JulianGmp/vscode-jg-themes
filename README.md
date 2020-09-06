@@ -16,4 +16,4 @@ All Theme names have a `[JG]` prefix.
 
 | Name (links to readme) | Description |
 | ---------------------- | ----------- |
-| [Dark+](themes/jg-darkplus.color-theme.json) | Modified version of the [default Dark+](https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_plus.json) theme. Changes some C# syntax for better readability. |
+| [Dark+](themes/jg-darkplus_readme.md) | Modified version of the [default Dark+](https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_plus.json) theme. Changes some C# syntax for better readability. |
