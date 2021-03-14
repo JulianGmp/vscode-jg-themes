@@ -1,8 +1,8 @@
 {
 	"name": "jg-themes",
 	"displayName": "JG - Themes",
-	"description": "VSCode package with custom themes for my personal use",
-	"version": "1.1.0",
+	"description": "Some themes with custom changes",
+	"version": "1.1.1",
 	"repository": {
 		"url": "https://github.com/JulianGmp/vscode-jg-themes"
 	},

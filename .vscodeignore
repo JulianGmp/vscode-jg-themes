@@ -3,5 +3,5 @@
 .gitignore
 vsc-extension-quickstart.md
 template/
-img/
+img/*/
 test/
