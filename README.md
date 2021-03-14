@@ -4,7 +4,8 @@
 
 This package is a small collection of vscode colour themes that I personally use.
 
-*Right now there's only one but I'm gonna add more at some point, I think. Don't quote me on it.*
+~~Right now there's only one but I'm gonna add more at some point, I think. Don't quote me on it.~~
+NEVERMIND I DID IT.
 
 ## Licensing
 
