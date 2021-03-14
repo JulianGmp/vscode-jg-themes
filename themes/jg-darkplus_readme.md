@@ -1,12 +1,12 @@
-# Dark+Sharp
+# [JG] Dark+
 
 A dark theme for Visual Studio Code. Based on the default [Dark+](https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_plus.json) theme.
 
 Makes only a few changes, mainly to make `C#` code more readable.
 
-## Default vs Dark+Sharp
+## Default vs [JG] Dark+
 
-| Change                                |             Default Dark+ Theme               |          Dark+Sharp                                  |
+| Change                                |             Default Dark+ Theme               |          [JG] Dark+                                  |
 |:------------------------------------- | --------------------------------------------- | ---------------------------------------------------- |
 | More noticable regions                | ![regions_default](../img/jg-darkplus/regions_default.png)   | ![regions](../img/jg-darkplus/regions.png)     |
 | Less noticable documentation comments | ![comments_default](../img/jg-darkplus/comments_default.png) | ![comments](../img/jg-darkplus/comments.png)   |
