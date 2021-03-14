@@ -19,3 +19,4 @@ All Theme names have a `[JG]` prefix.
 | Name (links to readme) | Description |
 | ---------------------- | ----------- |
 | [Dark+](themes/jg-darkplus_readme.md) | Modified version of the [default Dark+](https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_plus.json) theme. Changes some C# syntax for better readability. |
+| [Nord](themes/jg-nord_readme.md) | The popular [Nord Theme](https://github.com/arcticicestudio/nord-visual-studio-code) with some slight changes. |

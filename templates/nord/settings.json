@@ -1,0 +1,78 @@
+{
+	/*
+		Use this settings.json as a workspace settings file to 
+		test all the different color theme options
+	*/
+	// Template Color Theme
+	"workbench.colorTheme": "Nord",
+	"editor.tokenColorCustomizations": {
+		"textMateRules": [
+			// Changes to comments
+			{
+				"scope": "comment",
+				"settings": {
+					"foreground": "#03ac0e",
+				}
+			},
+			{
+				"scope": "comment.block.documentation",
+				"settings": {
+					"foreground": "#3e6d2a",
+				}
+			},
+			{
+				"scope": "punctuation.definition.tag.cs",
+				"settings": {
+					"foreground": "#5d5d5d",
+				}
+			},
+			{
+				"scope": "meta.tag.cs",
+				"settings": {
+					"foreground": "#5d5d5d",
+				}
+			},
+			{
+				"scope": "entity.name.tag.localname.cs",
+				"settings": {
+					"foreground": "#5d5d5d",
+				}
+			},
+			{
+				"scope": "entity.other.attribute-name.localname.cs",
+				"settings": {
+					"foreground": "#5d5d5d",
+				}
+			},
+			// Changes to regions
+			{
+				"scope": "meta.preprocessor",
+				"settings": {
+					"foreground": "#b3b3b3",
+					"fontStyle": "bold"
+				}
+			},
+			{
+				"scope": "keyword.preprocessor.region",
+				"settings": {
+					"foreground": "#b3b3b3",
+					"fontStyle": "bold underline"
+				}
+			},
+			{
+				"scope": "keyword.preprocessor.endregion",
+				"settings": {
+					"foreground": "#b3b3b3",
+					"fontStyle": "bold underline"
+				}
+			},
+			{
+				"scope": "string.unquoted",
+				"settings": {
+					"fontStyle": "underline"
+				}
+			},
+		]
+		
+	},
+}

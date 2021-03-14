@@ -2,7 +2,7 @@
 	"name": "jg-themes",
 	"displayName": "JG - Themes",
 	"description": "VSCode package with custom themes for my personal use",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"repository": {
 		"url": "https://github.com/JulianGmp/vscode-jg-themes"
 	},
@@ -24,6 +24,11 @@
 				"label": "[JG] Dark+",
 				"uiTheme": "vs-dark",
 				"path": "./themes/jg-darkplus.color-theme.json"
+			},
+			{
+				"label": "[JG] Nord",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jg-nord.color-theme.json"
 			}
 		]
 	}
