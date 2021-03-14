@@ -2,7 +2,7 @@
 	"name": "jg-themes",
 	"displayName": "JG - Themes",
 	"description": "Some themes with custom changes",
-	"version": "1.1.2",
+	"version": "1.1.3",
 	"repository": {
 		"url": "https://github.com/JulianGmp/vscode-jg-themes"
 	},
